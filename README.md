@@ -15,7 +15,7 @@ This project was built to master advanced React concepts, focusing heavily on st
 
 ## 🛠️ Tech Stack
 * **Frontend:** React.js, HTML5, CSS3 (CSS Modules)
-* **Routing:** React Router DOM (v6)
+* **Routing:** React Router DOM
 * **State Management:** Context API & useReducer Hook
 * **Map Integration:** React Leaflet & Leaflet.js
 * **Backend (Mock):** JSON Server
