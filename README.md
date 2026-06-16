@@ -9,7 +9,7 @@ This project was built to master advanced React concepts, focusing heavily on st
 * **Interactive World Map:** Visualize visited cities on a map built with `React Leaflet`.
 * **Geolocation:** Automatically fetch and navigate to the user's current GPS location.
 * **Advanced State Management:** Efficient data flow and state handling using `Context API` combined with `useReducer`.
-* **Dynamic Routing:** Seamless Single Page Application (SPA) experience with nested routes using `React Router v6`.
+* **Dynamic Routing:** Seamless Single Page Application (SPA) experience with nested routes using `React Router`.
 * **Data Fetching:** Integration with a mock API (`JSON Server`) to fetch, add, and delete visited cities.
 * **Component Styling:** Scoped and modular styling using `CSS Modules`.
 
