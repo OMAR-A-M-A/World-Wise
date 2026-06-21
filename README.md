@@ -35,7 +35,7 @@ To test the application with full API functionality (data fetching and mutations
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/OMAR-A-M-A/World-Wise.git](https://github.com/OMAR-A-M-A/World-Wise.git)
+   git clone https://github.com/OMAR-A-M-A/World-Wise.git
    cd World-Wise
    npm install
    npm run server
