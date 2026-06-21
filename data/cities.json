@@ -35,6 +35,18 @@
         "lng": 13.376933665713324
       },
       "id": "98443197"
+    },
+    {
+      "cityName": "Giza",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2026-06-21T15:34:17.862Z",
+      "notes": "this is my City ",
+      "position": {
+        "lat": "30.107117887092382",
+        "lng": "31.223144531250004"
+      },
+      "id": "IJafXoukLAA"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
