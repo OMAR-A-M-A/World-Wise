@@ -47,6 +47,30 @@
         "lng": "31.223144531250004"
       },
       "id": "IJafXoukLAA"
+    },
+    {
+      "cityName": "Cairo",
+      "country": "Egypt",
+      "emoji": "🇪🇬",
+      "date": "2026-06-21T20:06:32.725Z",
+      "notes": "",
+      "position": {
+        "lat": "30.107117887092382",
+        "lng": "31.354980468750004"
+      },
+      "id": "PHVSsnj95dQ"
+    },
+    {
+      "cityName": "Velika Gorica",
+      "country": "Croatia",
+      "emoji": "🇭🇷",
+      "date": "2026-06-21T20:06:58.281Z",
+      "notes": "",
+      "position": {
+        "lat": "45.67548217560647",
+        "lng": "16.040039062500004"
+      },
+      "id": "LFkmh5yJ5lE"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
